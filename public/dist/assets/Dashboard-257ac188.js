@@ -1,0 +1,1 @@
+import{j as e,O as r}from"./index-414685ae.js";import{u as s}from"./useAuthContext-2cc2c24e.js";function i(){const{use:t}=s();return t?e.jsxs("div",{children:[e.jsx("header",{children:" hehee"}),e.jsx(r,{}),e.jsx("footer",{children:"hehe"})]}):e.jsx("navigator",{to:"/login"})}export{i as default};
